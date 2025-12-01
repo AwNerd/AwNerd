@@ -10,9 +10,10 @@
 * I love math
 * Fun fact: math
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=awnerd&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-
-![snake gif](https://github.com/AwNerd/AwNerd/blob/output/github-snake-dark.svg)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=awnerd&theme=transparent&hide_border=true" alt="GitHub streak" />
+  <img src="https://github.com/AwNerd/AwNerd/blob/output/github-snake-dark.svg" /> 
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/awevangelista/)
 
