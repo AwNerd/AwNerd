@@ -10,6 +10,13 @@
 * ❤️ I love math
 * ⚡ Fun fact: math
 
+```yaml
+name: Andrew Evangelista
+located_in: Cupertino, California
+current_roles:
+  - Computer Science & Mathematics Student (De Anza College)
+```
+
 <!--
 **AwNerd/AwNerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
