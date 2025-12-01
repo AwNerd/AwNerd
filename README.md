@@ -1,14 +1,14 @@
 ### Hi there 👋
-* 👂 My name is Andrew Evangelista
-* 👩 Pronouns: he/him
-* 🔭 I’m currently working on math
-* 🌱 I’m currently learning math
-* 🤝 I’m looking to collaborate on math
-* 🤔 I’m looking for help with math
-* 💬 Ask me about math
-* 📫 How to reach me: math
-* ❤️ I love math
-* ⚡ Fun fact: math
+* My name is Andrew Evangelista
+* Pronouns: he/him
+* I’m currently working on math
+* I’m currently learning math
+* I’m looking to collaborate on math
+* I’m looking for help with math
+* Ask me about math
+* How to reach me: math
+* I love math
+* Fun fact: math
 
 ![snake gif](https://github.com/AwNerd/AwNerd/blob/output/github-snake-dark.svg)
 
