@@ -10,6 +10,8 @@
 * I love math
 * Fun fact: math
 
+![snake gif](https://github.com/AwNerd/AwNerd/blob/output/github-snake-dark.svg)
+
 <!--
 **AwNerd/AwNerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
