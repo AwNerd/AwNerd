@@ -15,8 +15,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AwNerd&theme=tokyonight" alt="GitHub streak" />
-</p><details>
-</details>
+</p>
 
 ![snake gif](https://github.com/AwNerd/AwNerd/blob/output/github-snake-dark.svg)
 
