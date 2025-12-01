@@ -10,9 +10,6 @@
 * I love math
 * Fun fact: math
 
-
-📈 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AwNerd&theme=tokyonight" alt="GitHub streak" />
 </p>
