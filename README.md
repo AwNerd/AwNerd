@@ -14,9 +14,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AwNerd" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src=![snake gif](https://github.com/AwNerd/AwNerd/blob/output/github-snake-dark.svg) />
-</p>
+![snake gif](https://github.com/AwNerd/AwNerd/blob/output/github-snake-dark.svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/awevangelista/)
 
