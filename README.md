@@ -11,7 +11,7 @@
 * Fun fact: math
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AwNerd&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AwNerd" alt="GitHub streak" />
 </p>
 
 ![snake gif](https://github.com/AwNerd/AwNerd/blob/output/github-snake-dark.svg)
