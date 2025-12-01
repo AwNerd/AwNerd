@@ -11,7 +11,17 @@
 * Fun fact: math
 
 
-[![AwNerd's GitHub stats](https://github-readme-stats.vercel.app/api?username=AwNerd)](https://github.com/anuraghazra/github-readme-stats)
+📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AwNerd&theme=tokyonight" alt="GitHub streak" />
+</p><details>
+  <summary>Even More Stats</summary>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=AwNerd&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AwNerd&layout=compact&theme=tokyonight" alt="Top Languages" />
+  </p>
+</details>
 
 ![snake gif](https://github.com/AwNerd/AwNerd/blob/output/github-snake-dark.svg)
 
