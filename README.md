@@ -11,7 +11,7 @@
 * Fun fact: math
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AwNerd)](https://github.com/anuraghazra/github-readme-stats)
+[![AwNerd's GitHub stats](https://github-readme-stats.vercel.app/api?username=AwNerd)](https://github.com/anuraghazra/github-readme-stats)
 
 ![snake gif](https://github.com/AwNerd/AwNerd/blob/output/github-snake-dark.svg)
 
