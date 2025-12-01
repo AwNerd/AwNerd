@@ -10,24 +10,8 @@
 * I love math
 * Fun fact: math
 
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AwNerd" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-stats-git-main-awnerd-projects.vercel.app/api/top-langs/?username=m3dkata&layout=compact&theme=synthwave" alt="Top Languages">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-stats-git-main-awnerd-projects.vercel.app/api?username=awnerd&show_icons=true&theme=synthwave&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=m3dkata&style=for-the-badge&color=blue" alt="Profile Views">
 </p>
 
 ![snake gif](https://github.com/AwNerd/AwNerd/blob/output/github-snake-dark.svg)
