@@ -10,9 +10,7 @@
 * I love math
 * Fun fact: math
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AwNerd" alt="GitHub streak" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=awnerd&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 ![snake gif](https://github.com/AwNerd/AwNerd/blob/output/github-snake-dark.svg)
 
