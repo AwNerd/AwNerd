@@ -10,7 +10,8 @@
 * I love math
 * Fun fact: math
 
-[![AwNerd's GitHub stats](https://github-readme-stats.vercel.app/api?username=AwNerd)](https://github.com/AwNerd/github-readme-stats)
+![Awnerd's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trrt-good&theme=radical&layout=compact)
+
 
 
 ![snake gif](https://github.com/AwNerd/AwNerd/blob/output/github-snake-dark.svg)
