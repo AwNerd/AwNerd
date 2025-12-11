@@ -5,7 +5,7 @@ I'm a first-year student passionate about **cybersecurity**, **machine learning*
 ---
 
 ### What I'm Working On
-- **[PasswordML](https://github.com/AwNerd/PasswordML)** - ML-enhanced password security research toolkit
+- **[PasswordML]([https://github.com/AwNerd/PasswordML](https://github.com/AwNerd/passwordML.v0.git))** - ML-enhanced password security research toolkit
   - Building Markov chain generators for password pattern analysis
   - Implementing traditional attack vectors (dictionary, brute force)
   - Planning to integrate neural networks (RNN, GAN) for advanced cracking
