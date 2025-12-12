@@ -49,6 +49,3 @@ I'm a first-year student passionate about **cybersecurity** and **machine learni
 **Email:** evangelistaandrew [at] deanza [dot] edu
 
 ---
-
-
----
