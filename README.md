@@ -1,6 +1,6 @@
 ### Hi there, I'm Andrew! 👋
 
-I'm a first-year student passionate about **cybersecurity**, **machine learning**, and building tools that solve real problems. Currently exploring how AI can enhance security systems.
+I'm a first-year student passionate about **cybersecurity** and **machine learning**. Currently exploring how AI can enhance security systems.
 
 ---
 
