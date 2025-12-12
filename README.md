@@ -50,13 +50,5 @@ I'm a first-year student passionate about **cybersecurity** and **machine learni
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=awnerd&theme=transparent&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/AwNerd/AwNerd/blob/output/github-snake-dark.svg" /> 
-</p>
 
 ---
