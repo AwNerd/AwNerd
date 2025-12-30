@@ -1,30 +1,30 @@
-### Hi there, I'm Andrew! 👋
-I'm a first-year student passionate about **cybersecurity** and **machine learning**. Currently exploring how AI can enhance security systems and conducting quantitative finance research.
+### hi there, I'm Andrew! 👋
+i'm a first-year student passionate about **cybersecurity** and **machine learning**. Currently exploring how AI can enhance security systems and conducting quantitative finance research.
 
 ---
 
-### What I'm Working On
-- **[PasswordML](https://github.com/AwNerd/passwordML.v0)** - ML-enhanced password security research toolkit
-  - Implemented second-order Markov chain generator trained on RockYou dataset
-  - Building traditional attack vectors (dictionary, brute force)
-  - Adding neural network password classification with TensorFlow
-  - Comprehensive password analysis with entropy calculation and pattern recognition
+### what I'm Working On
+- **[passwordML](https://github.com/AwNerd/passwordML.v0)** - ML-enhanced password security research toolkit
+  - implemented second-order Markov chain generator trained on RockYou dataset
+  - building traditional attack vectors (dictionary, brute force)
+  - adding neural network password classification with TensorFlow
+  - comprehensive password analysis with entropy calculation and pattern recognition
 
-- **[Volatility Forecasting Research](https://github.com/AwNerd/options_research)** - Quantitative finance research project
-  - Comparing ML models against traditional econometric approaches
-  - Using realized volatility with Garman-Klass estimator on SPY/VIX data
-  - Implementing systematic research pipeline for model evaluation
+- **[volatility forecasting research](https://github.com/AwNerd/options_research)** - quantitative finance research project
+  - comparing ML models against traditional econometric approaches
+  - using realized volatility with Garman-Klass estimator on SPY/VIX data
+  - implementing systematic research pipeline for model evaluation
 
-### Currently Learning
-- **Penetration Testing** - Vulnerability assessment, exploit techniques, ethical hacking methodologies
-- **Network Security** - VPN protocols, firewall configurations (pfSense), intrusion detection systems
-- **Cryptography** - Hash functions, encryption algorithms, digital signatures
-- **Security Tools** - Metasploit, Nmap, Wireshark, Burp Suite, Hashcat
-- **AI-Enhanced Security** - ML-based threat detection, anomaly detection, automated security systems
-- **Quantitative Finance** - Time series analysis, volatility modeling, statistical arbitrage
-- **Web Application Security** - SQL injection, XSS, CSRF, OWASP Top 10 vulnerabilities
+### currently Learning
+- **penetration testing** - Vulnerability assessment, exploit techniques, ethical hacking methodologies
+- **network security** - VPN protocols, firewall configurations (pfSense), intrusion detection systems
+- **cryptography** - Hash functions, encryption algorithms, digital signatures
+- **security tools** - Metasploit, Nmap, Wireshark, Burp Suite, Hashcat
+- **AI-enhanced security** - ML-based threat detection, anomaly detection, automated security systems
+- **quantitative finance** - Time series analysis, volatility modeling, statistical arbitrage
+- **web application security** - SQL injection, XSS, CSRF, OWASP Top 10 vulnerabilities
 
-### Tech Stack
+### tech Stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="12" />
@@ -43,7 +43,7 @@ I'm a first-year student passionate about **cybersecurity** and **machine learni
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
 </div>
 
-**Focus Areas:** Machine Learning • Cybersecurity • Quantitative Research • Systems Programming
+**focus areas:** machine Learning • cybersecurity • quantitative research • systems programming
 
 ### Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/awevangelista/)
