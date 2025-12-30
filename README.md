@@ -1,9 +1,9 @@
-### hi there, I'm Andrew! 👋
+### hi there, i'm andrew! 👋
 i'm a first-year student passionate about **cybersecurity** and **machine learning**. Currently exploring how AI can enhance security systems and conducting quantitative finance research.
 
 ---
 
-### what I'm Working On
+### what i'm working on
 - **[passwordML](https://github.com/AwNerd/passwordML.v0)** - ML-enhanced password security research toolkit
   - implemented second-order Markov chain generator trained on RockYou dataset
   - building traditional attack vectors (dictionary, brute force)
@@ -15,7 +15,7 @@ i'm a first-year student passionate about **cybersecurity** and **machine learni
   - using realized volatility with Garman-Klass estimator on SPY/VIX data
   - implementing systematic research pipeline for model evaluation
 
-### currently Learning
+### currently learning
 - **penetration testing** - Vulnerability assessment, exploit techniques, ethical hacking methodologies
 - **network security** - VPN protocols, firewall configurations (pfSense), intrusion detection systems
 - **cryptography** - Hash functions, encryption algorithms, digital signatures
@@ -24,7 +24,7 @@ i'm a first-year student passionate about **cybersecurity** and **machine learni
 - **quantitative finance** - Time series analysis, volatility modeling, statistical arbitrage
 - **web application security** - SQL injection, XSS, CSRF, OWASP Top 10 vulnerabilities
 
-### tech Stack
+### tech stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="12" />
